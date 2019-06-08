@@ -9,8 +9,7 @@ First press will switch to Mode A, second press will switch to Mode B and the 3r
 Mode C
 e.g: we need mode C so we will press on the button 2 times, first time the button will send Mode C via
 UART then Microcontroller will receive mode C and will enter to mode C immediately 
-## Mode A: 
-  **alarm system for an oven**
+## Mode A: **alarm system for an oven**
   A led and buzzer will change their values based on the value of ADC0
   * If ADC0 > 100 buzzer duty = 20 led duty = 100
   * If ADC0 > 300 buzzer duty = 40 led duty = 70
@@ -24,7 +23,7 @@ UART then Microcontroller will receive mode C and will enter to mode C immediate
 operation is + - * /
 e.g : 1+3=4 
 
-### NOTES:
+#### NOTES:
   * Current mode should be appeared in LCD of the kit at first line.
   * Assume any variables not given.
 
