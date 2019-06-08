@@ -1,4 +1,3 @@
-# Three_Mode_System
 # About this repository
   This is a micro-controller project at FEHU "Facutly of Engineering Helwan University". 
 # Project Details
